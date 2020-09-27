@@ -211,8 +211,12 @@ main .tweet:last-child {
 .wrap {
   border: var(--border);
   height: 5rem;
-  width: 40rem;
+  width: 39rem;
   border-radius: 1rem;
+}
+
+.cnn {
+  padding-left: 1rem;
 }
 
 .page-wrapper aside {
