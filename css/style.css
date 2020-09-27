@@ -219,6 +219,32 @@ main .tweet:last-child {
   padding-left: 1rem;
 }
 
+.logos {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  /* justify-content: space-between; */
+  align-items: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.com {
+  height: 15px;
+}
+
+.comm {
+  font-size: 12px;
+  
+}
+
+.closer {
+  /* padding-left: -8rem; */
+}
+
 .page-wrapper aside {
   background-color: khaki;
 }
