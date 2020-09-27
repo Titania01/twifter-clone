@@ -79,6 +79,7 @@ nav .link {
   color: black;
   border-radius: 4rem;
   padding: .75rem 1rem .75rem .5rem;
+  /* background-color: aqua; */
 }
 
 nav .link.active {
@@ -192,6 +193,26 @@ main .tweet {
 
 main .tweet:last-child {
   border-bottom: var(--border);
+}
+
+.handle {
+  padding-left: 0.5rem;
+}
+
+.words {
+  font-size: smaller;
+}
+
+.drop {
+  padding-left: 30rem;
+  height: 15px;
+}
+
+.wrap {
+  border: var(--border);
+  height: 5rem;
+  width: 40rem;
+  border-radius: 1rem;
 }
 
 .page-wrapper aside {
