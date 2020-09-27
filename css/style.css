@@ -242,7 +242,7 @@ main .tweet:last-child {
 }
 
 .closer {
-  /* padding-left: -8rem; */
+  padding-left: -3rem;
 }
 
 .page-wrapper aside {
